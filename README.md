@@ -4,14 +4,10 @@
 
 
 ### Glad to see you here!  
-  
-  
-
 <br/>  
 
+## About me  
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - ##### 🔭 I’m currently working on SpringBoot  
   
@@ -19,15 +15,8 @@
 - ##### 🌱 I’m currently learning Backend Development  
   
 
-- ##### ❓ Ask me about anything related to : Backend Development | SpringBoot | DSA   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
+- ##### ❓ Ask me about anything related to Backend Development | SpringBoot | DSA
+  
 <br/>  
 
 
